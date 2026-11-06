@@ -1,0 +1,6 @@
+{
+  "name": "FacePulse AR",
+  "description": "Masque facial géométrique en réalité augmentée, détection d'émotions en temps réel et réactions interactives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
